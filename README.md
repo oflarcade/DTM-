@@ -20,6 +20,6 @@ This is a UI CLone made with expo CLI(react native) of [DTM](https://www.dtm.com
  install [node](https://nodejs.org/en/download/)
  
  # Screenshot ios : 
-    ![Screenshot](../master/screenshots/48392556_369509630492872_1888450098749243392_n.jpg)
-    ![Screenshot](https://github.com/oflarcade/DTM-/blob/master/screenshots/48396547_372040776695543_7386057505199095808_n.jpg)
-    ![Screenshot](https://github.com/oflarcade/DTM-/blob/master/screenshots/48407377_2177454722469311_7048790714334838784_n.jpg)
+    ![Screenshot](screenshots/48407377_2177454722469311_7048790714334838784_n.jpg)
+    ![Screenshot](screenshots/48396547_372040776695543_7386057505199095808_n.jpg)
+    ![Screenshot](/screenshots/48407377_2177454722469311_7048790714334838784_n.jpg)
