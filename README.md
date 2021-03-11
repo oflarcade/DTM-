@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This is a UI CLone made with expo CLI(react native) of [DTM](https://www.dtm.com/en), what is ready:
+This is a UI CLone made with expo CLI(react native) of [DTM](https://www.dtm.com/en) :
   - Overiew Page
   - Driver 2018
 
